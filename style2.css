@@ -6,6 +6,7 @@
  text-transform: capitalize;
 }
 body {
+  display: inline;
   height: 100dvh;
   width: 100dvw;
 }
@@ -74,7 +75,7 @@ body {
  flex-direction: column;
  justify-content: center;
  align-items: center;
- height: calc(100vh - 80px);
+ height: calc(100dvh - 80px);
 }
 
 #number {
