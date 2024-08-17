@@ -1,11 +1,9 @@
 /* ROOT */
-* {
+body {
    margin: 0;
    padding: 0;
    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
    text-transform: capitalize;
-}
-body {
    display: inline;
    height: 100dvh;
    width: 100dvw;
