@@ -6,6 +6,7 @@
    text-transform: capitalize;
 }
 body {
+   display: inline;
    height: 100dvh;
    width: 100dvw;
 }
